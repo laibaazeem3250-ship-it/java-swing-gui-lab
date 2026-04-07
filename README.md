@@ -6,7 +6,7 @@
 
 ## 📸 Screenshots
 
-![JFrame](screenshots/gui.png) 
+✅ ![GUI Screenshot](gui.png)
 
 ---
 
