@@ -6,10 +6,7 @@
 
 ## 📸 Screenshots
 
-<!-- Add your screenshots here -->
-| App | Preview |
-|-----|---------|
-| Basic JFrame | ![JFrame](screenshots/gui.png) |
+!(screenshots/gui.png) 
 
 ---
 
@@ -65,4 +62,4 @@
 **Laiba Azeem**  
 📍 Pakistan | Learning Java GUI one frame at a time 😄
 
-[![GitHub](https://github.com/laibaazeem3250-ship-it)
+[GitHub](https://github.com/laibaazeem3250-ship-it)
