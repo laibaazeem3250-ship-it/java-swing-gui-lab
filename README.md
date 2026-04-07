@@ -6,7 +6,7 @@
 
 ## 📸 Screenshots
 
-!(screenshots/gui.png) 
+!(screenshots/GUI.png) 
 
 ---
 
