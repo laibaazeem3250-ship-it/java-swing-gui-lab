@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class GUI extends JFrame {
+ 
 
  public GUI() {
      super("I've been framed!");
