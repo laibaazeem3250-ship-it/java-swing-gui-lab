@@ -1,4 +1,4 @@
-# ☕ Java Swing GUI Lab
+#  Java Swing GUI Lab
 
 > A hands-on collection of Java GUI programs built using `javax.swing` — created while learning GUI & Event-Driven Programming in Java.
 
