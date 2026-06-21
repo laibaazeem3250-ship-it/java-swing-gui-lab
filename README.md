@@ -6,7 +6,6 @@
 ## 📸 Screenshots
 
 ✅ ![GUI Screenshot](gui.png)
-
 ---
 
 ## 🗂️ What's Inside
